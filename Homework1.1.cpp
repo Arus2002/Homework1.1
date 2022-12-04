@@ -21,7 +21,7 @@ int main(){
 		if(close(fd1[0]) == -1){
                         return 4;
                 }
-
+//a
                 if(close(fd2[1]) == -1){
                         return 5;
                 }
